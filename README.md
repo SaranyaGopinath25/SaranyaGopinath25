@@ -11,11 +11,11 @@ Passion for Frontend
 
 ### 👩‍💻 About Me
 
-🧠 Software developer with experience across **Startups and Enterprise SaaS companies**  
-👩‍💻 Passionate about building **scalable, clean React web applications**  
-👩‍👧 Proud mom — balancing code, career, and family  
-🌍 Currently **relocating & rebuilding** life and tech roots in **Denmark**  
-⏳ Limited personal project time — but **high intent, high curiosity**
+-  Software developer with experience across **Startups and Enterprise SaaS companies**  
+-  Passionate about building **scalable, clean React web applications**  
+-  Proud mom — balancing code, career, and family  
+-  Currently **relocating & rebuilding** life and career in **Denmark**
+-  Limited personal project time — but **high intent, high curiosity**
 
 ---
 
