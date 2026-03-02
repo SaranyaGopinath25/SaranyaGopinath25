@@ -1,6 +1,6 @@
 <!-- Animated Name -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi👋%2C+I'm+Saranya;Software+Developer" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&pause=800&center=true&vCenter=true&width=600&lines=Hi👋%2C+I'm+Saranya+Gopinath;Software+Developer" />
 </h1>
 
 <p align="center">
